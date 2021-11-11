@@ -387,14 +387,14 @@ hr {
     }
 }
 
-@media screen and (max-width:344px) {
+@media screen and (max-width: 411px) {
 
     .ServiceDescrip h4 {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .ServiceDescrip p {
-        font-size: 11px;
+        font-size: 13px;
     }
 
 }
