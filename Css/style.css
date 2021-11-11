@@ -83,7 +83,7 @@ input:checked~nav {
 
 /*------------------ENCABEZADO----------------*/
 #banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #009687c7), url("../Assets/paper-boat-on-globe.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #009687c7), url("Assets/paper-boat-on-globe.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
